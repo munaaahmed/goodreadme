@@ -44,7 +44,7 @@ undefined
 To run tests, run the following command:
 
 ```
-npm tests
+npm test
 ```
 
 ## Questions
