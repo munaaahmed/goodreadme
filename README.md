@@ -1,3 +1,7 @@
+## Demo
+![](images/ReadMEGif.gif) 
+## Description
+This project is a ReadMe generator which creates a ReadME using User infromation quickly. It is a command line application and features a table of contents.
 # 
 ![GitHub license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
 
